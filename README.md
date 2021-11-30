@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Tuan!
+
+I'm a 4th year Software Engineering student at York University in Toronto, Canada. I enjoy working on backend and blockchain systems.
+
+- 🔭 I’m currently working at [CertiK](https://www.certik.com/) as a Software Engineering Intern, where I help the internal tools team.
+- 🌱 I’m working towards becoming a better backend developer, and escaping Gold ELO in Valorant
+- 📫 To contact me about Summer 2022 co-ops: [LinkedIn](https://www.linkedin.com/in/tuansydau/) 
 
 <!--
 **tuansydau/tuansydau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
