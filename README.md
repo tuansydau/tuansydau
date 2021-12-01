@@ -11,6 +11,6 @@ I started coding in grade school with Roblox Studio where I learned Lua - Then I
 - 🎸 A (rusty) guitarist and bassist, mainly focused on Jazz and R&B.
 - 🏎️ Incoming Software Engineering Intern at Tesla!
 
-### Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/tuansydau/), I'm always happy to talk!
+#### Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/tuansydau/), I'm always happy to talk!
 
 [![Tuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuansydau)](https://github.com/anuraghazra/github-readme-stats)
