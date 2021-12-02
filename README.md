@@ -9,7 +9,7 @@ I started coding in grade school with Roblox Studio where I learned my first pro
 - 🌱 I’m working towards becoming a better backend developer, and escaping Gold ELO in Valorant.
 - 🎮 I just bought a switch last weekend (Black Friday 2021) and now I can't get off of Animal Crossing.
 - 🎸 A (rusty) guitarist and bassist, mainly focused on Jazz and R&B.
-- 🏎️ Incoming Software Engineering Intern at Tesla!
+- 🎶 Giveon's biggest fan (Top 0.1% Spotify listeners 2021)
 
 #### Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/tuansydau/), I'm always happy to talk!
 
