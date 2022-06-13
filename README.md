@@ -3,7 +3,7 @@
 I'm Tuan, a software engineering student with a passion for blockchain and backend development.
 
 #### Here are some facts about me:
-- 🔭 I’m currently working at [Tesla](https://www.tesla.com/) as a Software Engineering Intern on the Infotainment QA Tools Team.
+- 🔭 I’m currently working at [Big Whale Labs](https://www.bwl.gg/) as a Software Engineering Intern, helping build our ZK Badge Protocol, SealCred.
 - 🌱 I’m working towards becoming a better backend developer, and escaping Gold ELO in Valorant.
 - 🎸 Listened to 120k+ minutes of music in 2021 (80k+ Spotify, 40k+ Tidal)
 - 🎶 Giveon's biggest fan (Top 0.1% Spotify listeners 2021)
