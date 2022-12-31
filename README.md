@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Tuan, a Figma and Flexbox simp.
+I'm Tuan, a Figma, Flexbox, and API simp.
 
 #### Here are some facts about me:
 - 🔭 I'm currently in my final year as a Software Engineering Student at York University
