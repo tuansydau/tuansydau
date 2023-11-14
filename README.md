@@ -10,5 +10,3 @@ I'm Tuan, a Figma, Flexbox, and API simp.
 - 🎶 (Still) Giveon's biggest fan (Top 0.1% Spotify listeners 2021, 2022)
 
 #### If you're an employer, I'm honoured
-
-[![Tuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuansydau)](https://github.com/anuraghazra/github-readme-stats)
