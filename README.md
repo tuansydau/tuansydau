@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Tuan, a Figma, Flexbox, and API simp.
+I'm Tuan, a full-stack developer from Toronto, Canada.
 
 #### Here are some facts about me:
 - 🔭 I'm a Software Engineering new grad from York University (Graduated May 2023!)
